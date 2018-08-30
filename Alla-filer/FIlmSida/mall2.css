@@ -1,0 +1,17 @@
+p {
+color : black;
+font-family : Verdana;
+}
+h1 {
+font-family : Verdana;
+}
+body {
+background-color : antiquewhite;
+}
+li {
+list-style-type : none;
+color : darkgoldenrod;
+list-style-image : url();
+margin : 20px 0 20px 0;
+padding : 100px;
+}

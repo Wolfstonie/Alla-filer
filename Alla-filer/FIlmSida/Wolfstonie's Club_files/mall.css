@@ -1,0 +1,30 @@
+header {
+    
+    font-family: fantasy;
+    font-size-adjust: auto;
+    font-size: 20;
+    
+        
+}
+#logo {
+  background-image: url(Loga.jpg);text-align: center; align-self: center;
+  display: block;
+  margin:  0;
+  text-indent: 10px;
+width: 1000px;
+  height: 200px;
+    margin: auto;
+}
+#boka {
+  background-image: url(Boka.jpg);text-align: center; align-self: center;
+  display: block;
+  margin:  0;
+  text-indent: 10px;
+   width: 25%;
+  height: 200px;
+
+}
+
+body {
+    background-color: beige;
+}

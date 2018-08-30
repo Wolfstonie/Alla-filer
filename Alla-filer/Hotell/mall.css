@@ -1,0 +1,78 @@
+header {
+
+    font-family: fantasy;
+    font-size-adjust: auto;
+    font-size: 20;
+
+
+}
+#loogo {
+    background-im age: url(Loga.jpg);text-align: center; align-self: center;
+    display: inline-block;
+    margin:  10px;
+    margin-left: 200px;
+    text-indent: 10px;
+    height: 120px;
+    width: 1000px;
+
+}
+
+#boka {
+    background-image: url(Boka.jpg);text-align: center; align-self: center;
+    display: inline-block;
+    margin:  10px;
+    margin-left: 200px;
+    text-indent: 10px;
+    width: 150px;
+    height: 50px;
+
+}
+
+#review {
+    background-image: url(Review.jpg);text-align: center; align-self: center;
+    display: inline-block;
+    margin:  10px;
+    margin-left: 10px;
+    text-indent: 10px;
+    width: 150px;
+    height: 50px;
+    z-index: 10;
+
+}
+
+#kontakt {
+    background-image: url(Kontakt.jpg);text-align: center; align-self: center;
+    display: inline-block;
+    margin:  10px;
+    margin-left: 10px;
+    text-indent: 10px;
+    width: 150px;
+    height: 50px;
+    z-index: 10;
+    
+
+}
+#background {
+    position: sticky;
+    background-image: url(Background.jpg);text-align: center; align-self: center;
+    display: inline-block;
+    margin:  10px;
+    margin-left: 10px;
+    text-indent: 10px;
+    width: 1440px;
+    height: 900px;
+    z-index: 1;
+}
+
+#runtom {
+    color: black;
+    background-color: white;
+    border: 7.5px solid aqua;
+    display: block;
+    margin-left: 150px;
+    margin-top: 50px;
+    margin-right: 150px;
+    padding: 25px;
+
+}
+
